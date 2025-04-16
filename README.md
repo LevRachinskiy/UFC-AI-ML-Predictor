@@ -50,11 +50,11 @@ For both fighters:
 
         Show similar historical matchups (from your dataset)
 
-5. Optional Enhancements
+5. Possible Enhancements
 
     Risk/confidence score
 
-    Betting value signal (if Red has 74% win chance but Vegas line says 55%)
+    Betting value signal (if Red has 74% win chance but Vegas line says 55%), maybe even build api
 
 ## Implementation Plan
 Phase	Description
