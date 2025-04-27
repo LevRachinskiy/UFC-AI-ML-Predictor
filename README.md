@@ -61,4 +61,4 @@ Phase	Description
 Phase 1	Build data pipeline to detect matchup and extract features
 Phase 2	Build GvS-only model using clean features
 Phase 3	Train explanation module to surface similar fights
-Phase 4	Wrap in a UI (CLI/Streamlit) for input → % prediction → rationale
+Phase 4	Wrap in a UI (CLI/Streamlit) for input → % prediction → rationale behind choice
